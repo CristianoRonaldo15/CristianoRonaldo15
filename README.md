@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🏫 Atualmente cursando ADS
-- 🌱 Eu estou aprendendo a viver
+- 🏫 Atualmente cursando AIDS
+- 🌱 Eu estou aprendendo a viver com aids
 - ⚽ Eu posso ajudar com futebol
 - 💬 Onde me encontrar: IG: Cristiano_77a
 - 🎮 Pro player de clash royale

@@ -5,5 +5,5 @@
 
 Here are some ideas to get you started:
 
-- 🏫 Cursado AIDS
+- 🏫 Cursado Tec.ADS
 - 💬 Onde me encontrar: IG: Cristiano_77a

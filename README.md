@@ -7,15 +7,16 @@
 ---
 
 ## 🔧 Tecnologias que estudo
-- **Linguagens:** Java, C#, Python, JavaScript  
+- **Linguagens:** C#, Python
 - **Banco de Dados:** MySQL  
 - **Ferramentas:** Git, GitHub, VSCode, PyCharm 
 
 ---
 
 ## 📌 Projetos em Destaque
-- 
-- 
+- Calculadora completa no CMD
+- Gestor de clientes no CMD
+- Gestor de estoque orientado a objetos no CMD
 
 ---
 

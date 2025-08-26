@@ -14,7 +14,7 @@
 ---
 
 ## 📌 Projetos em Destaque
-- Calculadora completa no CMD
+- Calculadora completa em C# no CMD (https://github.com/CristianoRonaldo15/Calculadora-Completa-C-)
 - Gestor de clientes no CMD
 - Gestor de estoque orientado a objetos no CMD
 

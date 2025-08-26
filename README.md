@@ -1,11 +1,22 @@
-###
+# 👋 Olá, eu sou Cristiano Ronaldo Ribeiro Bastos
 
+🎓 Estudante de **EAD Superior de ADS na UNIFRAN**  
+💻 Aspirante a **Desenvolvedor Full Stack** com foco em **Java e Cloud**  
+🚀 Apaixonado por tecnologia, inovação e aprendizado contínuo  
 
-**CristianoRonaldo15/CristianoRonaldo15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔧 Tecnologias que estudo
+- **Linguagens:** Java, C#, Python, JavaScript  
+- **Banco de Dados:** MySQL  
+- **Ferramentas:** Git, GitHub, VSCode, PyCharm 
 
-- 🏫 Cursado Tec.ADS
-- 🏫 Cursando Superior ADS na Cruzeiro Do Sul
-- 💬 Onde me encontrar: IG: Cristiano_77a
--
+---
+
+## 📌 Projetos em Destaque
+- 
+- 
+
+---
+
+📫 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/cristiano-ronaldo-ribeiro-bastos-6a6904355/overlay/contact-info/).

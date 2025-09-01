@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Cristiano Ronaldo Ribeiro Bastos
 
 🎓 Tec. ADS na CNEC Unaí-MG
-🎓 Estudante de **EAD Superior de ADS na UNIFRAN**  
+🎓 Estudante de **Superior de ADS na UNIFRAN EAD**  
 💻 Aspirante a **Desenvolvedor Full Stack** com foco em **Java e Cloud**  
 🚀 Apaixonado por tecnologia, inovação e aprendizado contínuo  
 
